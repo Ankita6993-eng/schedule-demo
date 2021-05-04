@@ -33,12 +33,21 @@ export let Datasource: Object[] = [
         DepartmentName: 'GENERAL'
     },
     {
-        Id: 4,
+        Id: 5,
         Name:'Nikita',
         //Appointment_time:{ StartTime: new Date(2018, 7, 1, 10, 0),EndTime: new Date(2018, 7, 1, 11, 0),},
         StartTime: new Date(2018, 7, 2, 10, 0),
         EndTime: new Date(2018, 7, 2, 11, 0),
         Description: 'Surgery Appointment',
+        DepartmentName: 'GENERAL'
+    },
+    {
+        Id: 5,
+        Name:'Nina',
+        //Appointment_time:{ StartTime: new Date(2018, 7, 1, 10, 0),EndTime: new Date(2018, 7, 1, 11, 0),},
+        StartTime: new Date(2018, 7, 4, 11, 0),
+        EndTime: new Date(2018, 7, 4, 12, 0),
+        Description: 'Eye and Spectacles Checkup',
         DepartmentName: 'GENERAL'
     }
 ];
