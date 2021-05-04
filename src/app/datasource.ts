@@ -13,24 +13,21 @@ export let Datasource: Object[] = [
         //Appointment_time:{ StartTime: new Date(2018, 7, 1, 10, 30),EndTime: new Date(2018, 7, 1, 11, 30),},
         StartTime: new Date(2018, 7, 1, 10, 30),
         EndTime: new Date(2018, 7, 1, 11, 30),
-        Description: 'Tooth Erosion',
-        DepartmentName: 'DENTAL'
+        Description: 'Tooth Erosion'
     }, {
         Id: 3,
         Name:'Neel',
         // Appointment_time:{ StartTime: new Date(2018, 7, 1, 12, 0),EndTime: new Date(2018, 7, 1, 13, 0),},
         StartTime: new Date(2018, 7, 1, 12, 0),
         EndTime: new Date(2018, 7, 1, 13, 0),
-        Description: 'Eye and Spectacles Checkup',
-        DepartmentName: 'GENERAL'
+        Description: 'Eye and Spectacles Checkup'
     }, {
         Id: 4,
         Name:'Mina',
         //Appointment_time:{ StartTime: new Date(2018, 7, 1, 10, 0),EndTime: new Date(2018, 7, 1, 11, 0),},
         StartTime: new Date(2018, 7, 1, 10, 0),
         EndTime: new Date(2018, 7, 1, 11, 0),
-        Description: 'Surgery Appointment',
-        DepartmentName: 'GENERAL'
+        Description: 'Surgery Appointment'
     },
     {
         Id: 5,
@@ -38,8 +35,7 @@ export let Datasource: Object[] = [
         //Appointment_time:{ StartTime: new Date(2018, 7, 1, 10, 0),EndTime: new Date(2018, 7, 1, 11, 0),},
         StartTime: new Date(2018, 7, 2, 10, 0),
         EndTime: new Date(2018, 7, 2, 11, 0),
-        Description: 'Surgery Appointment',
-        DepartmentName: 'GENERAL'
+        Description: 'Surgery Appointment'
     },
     {
         Id: 5,
@@ -47,7 +43,6 @@ export let Datasource: Object[] = [
         //Appointment_time:{ StartTime: new Date(2018, 7, 1, 10, 0),EndTime: new Date(2018, 7, 1, 11, 0),},
         StartTime: new Date(2018, 7, 4, 11, 0),
         EndTime: new Date(2018, 7, 4, 12, 0),
-        Description: 'Eye and Spectacles Checkup',
-        DepartmentName: 'GENERAL'
+        Description: 'Eye and Spectacles Checkup'
     }
 ];
